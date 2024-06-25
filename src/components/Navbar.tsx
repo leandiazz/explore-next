@@ -1,4 +1,4 @@
-import { Link } from "next-view-transitions";
+import Link from "next/link";
 
 const pages = [
   { title: "Image Optimization", href: "/image-optimization" },
